@@ -1,0 +1,7 @@
+{
+  "name": "RITS Chat",
+  "description": "",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
